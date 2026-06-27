@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-md fixed-bottom">
+
+    <ul class="navbar-nav">
+        {% for item in site.pages %}
+        {% if item.title != null %}
+        <li>
+          <h1><a class="nav-item nav-link main-color" href="{{item.url}}">{{ item.title }}</a></h1>
+        </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+
+</nav>

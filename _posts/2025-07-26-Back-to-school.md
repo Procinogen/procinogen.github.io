@@ -1,0 +1,24 @@
+---
+layout: post
+title: Back to school
+excerpt: it's been a year
+tags: personal thoughts
+---
+
+I'll be going back to school this September. I feel really... "overwhelmed." I hate using that word. It sounds like I'm that kind of person that uses therapy-speak to paint myself as a victim, or to justify being incapable of doing anything. I dunno how else to explain it. Like most of my posts, this is honestly just going to be me rambling. No structure or anything. Honestly, even as I type this out, I can feel the points I wanted to go over draining out of my brain.
+
+But anyways — yeah, I'm going back to school this September. Good ol' UTSC. You know, I used to kind of resent going there. And I still kind of do, to an extent. It always sort of felt like the place where all the people who got rejected from St. George go. But that might just be me. Most people going to university were far more prepared than I ever was. And that's on me. I dove right in, expecting everything to just work out. Spoiler alert: it didn't. And that's how you end up with a self-loathing, anti-social, genuinely resentful slob who hates doing anything that requires even a fraction of brainpower.
+
+I'm scared, at the end of the day. I really am. This past year, I've been just living with my parents and relaxing. I haven't been able to find work unfortunately, so I've basically been a NEET for a year. I'm not trying to make that sound nice. It sucks. Oh, I forgot to mention why I took a break from school in the first place. Basically, my grades were *really* bad, so I was put under probation, and since I wasn't able to get them up, I was booted. Twice, actually. The first time was four months. I flunked all of my classes that year. Second year of university. Then, after that, I managed to finally pass my courses in my third year. That was a really big achievement for me, honestly. It felt like I was finally getting everything back together. But I passed through the skin of my teeth, so I was then suspended for a year.
+
+I've had a lot of time to reflect on everything. That's what I've been doing for the past four years, honestly. I've talked to some people about my mental health. A counselor, a psychologist, my friends, whatever. I dunno. I never really liked talking about it much. What I dislike about mental health professionals is that they often try to find the root of your problems, but it doesn't seem effective to me because I knew exactly what was causing them. It was because I was behind in school. That I couldn't pass anything. I felt like an idiot. Especially since I was surrounded by, genuinely, extremely bright people. Doesn't help that I look at everyone else in my classes and I see that they're all younger than me.
+
+Oh man, I've been circling about what I wanted to vent about in the first place. Ugh, looking for housing is so stressful. Luckily, I've been trying to get on that earlier than I usually do, so stuff seems to be cheaper than how it usually is for. I'm grateful for that. But housing aside, I still haven't picked out my courses. ACORN says that I haven't been invited to the fall semester, so I emailed the registrar about that. Ahh, man. Deadlines always stress me out. It feels really demeaning not being able to handle these things as well as everybody else seems to be able to. God, and then there's still the money I need to worry about. I have some funds saved up, but I'm going to need to find a job in Toronto so I can pay for rent and tuition comfortably. I really hate relying on OSAP. Being in debt stresses me the fuck out.
+
+I want to somehow scream in text form. I'll try it right now: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAWBDIHUABWDUHYABWDUYAWVG DUYAWGUID UJWAGDJUHYAWGJIUDHBIWUAHDWIAIDOEWORH98QU89HDAIDAQWADWQDPHNIQWQWDPKNIWQDPHIQWDH08ADAWDAWEHIAHDOIADLDONAWDNOHALOIWUA0P;D JAWFP;NA;IOAFUVC  MUFCK QIUWFDUIAWHWUIOJAFUCKAWDHAWHDWUIAHD OIAJUWOD JOWIAJDOIAJWDJOAWJDOIWNADOWAU9FDHAWFNOIAWNJFOIAWNFOAWINFIOWYAOR WANDRKJABNDOIWNADPIONKLW JMKAFDAIW 
+
+I threw in some keysmashes. For extra flavor, and I also just felt the need to smash my keyboard. Stressful things are going on right now. For me, at least. I'm sure that for the average person, this is nothing. I just gotta man up and start being an adult. Sigh.
+
+Oh, yeah, forgot to mention. I've been working on a Neocities website and I'll probably migrate to blogposting over there. The url is [procinogen.neocities.org](https://procinogen.neocities.org). As of the time of writing this, it just links back to this website.
+
+It makes more sense to me if this was a more professional website. I have an article that I've been working on about the mechanics of braking in skateboarding. Hopefully that ends up seeing the light of day.

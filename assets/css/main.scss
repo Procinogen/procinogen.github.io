@@ -1,0 +1,41 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+
+$main_text_color: #100C13;
+$faded_text_color: #434046;
+$superlight_text: #9C94A2;
+$light_purple: #8653A4;
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    color: $main_text_color;
+}
+
+a {
+    color: $light_purple;
+
+    &:hover {
+        color: $main_text_color;
+        text-decoration: underline !important;
+    }
+}
+
+hr {
+    border-top: 1px solid $main_text_color;
+}
+
+.main-color {
+    color: $main_text_color;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.postfeed{
+    &-excerpt{
+        color: $faded_text_color;
+    }
+}
