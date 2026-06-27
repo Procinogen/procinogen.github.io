@@ -1,1 +1,0 @@
-import '/assets/js/bootstrap/bootstrap.bundle.js'
