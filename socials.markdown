@@ -25,4 +25,4 @@ I **implore** you to check out my amazing friends' stuff.
 
 - [tirefiretheband.bandcamp.com](https://tirefiretheband.bandcamp.com) \
 [liquidpeppermint.bandcamp.com/releases](https://liquidpeppermint.bandcamp.com/releases)
-    - &rarr; Please check out this guys' music!! Super good alt-rock stuff!!!!
+    - &rarr; Please check out this guy's music!! Super good alt-rock stuff!!!!
